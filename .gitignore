@@ -5,3 +5,4 @@ node_modules
 localrun.sh
 npm-debug.log
 newrelic_agent.log
+./localrun.sh
